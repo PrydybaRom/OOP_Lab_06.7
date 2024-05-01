@@ -1,0 +1,6 @@
+﻿  Sourse.cpp
+C:\Users\Roman\source\repos\OOP_Lab_06.7\Array.cpp(9,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Roman\source\repos\OOP_Lab_06.7\Array.cpp(7,27): message : while compiling class template member function 'Array<int>::Array(int)'
+C:\Users\Roman\source\repos\OOP_Lab_06.7\Sourse.cpp(9,19): message : see the first reference to 'Array<int>::Array' in 'main'
+C:\Users\Roman\source\repos\OOP_Lab_06.7\Sourse.cpp(9,16): message : see reference to class template instantiation 'Array<int>' being compiled
+  OOP_Lab_06.7.vcxproj -> C:\Users\Roman\source\repos\OOP_Lab_06.7\x64\Debug\OOP_Lab_06.7.exe
